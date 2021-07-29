@@ -11329,8 +11329,8 @@ section.resume-section {
 	align-items: center;
 	padding-left: 1rem;
 	padding-right: 1rem;
-	padding-top: 4rem;
-	padding-bottom: 4rem;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
 	max-width: 75rem;
 }
 section.resume-section .resume-section-content {
@@ -11342,6 +11342,10 @@ section.resume-section .resume-section-content {
 }
 .skills li p {
 	font-size: 0.8rem;
+}
+
+li span a {
+	font-size: 0.85rem;
 }
 
 @media (min-width: 768px) {
